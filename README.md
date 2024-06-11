@@ -1,5 +1,5 @@
 
-Here's a template for a README file for a house price prediction project using a heatmap, XGBoost, and Artificial Neural Networks (ANN) for prediction. You can customize it with your project's specific details:
+
 
 House Price Prediction
 
